@@ -21,3 +21,7 @@ Configured SSH protocol version and allowed ciphers to ensure compatibility with
 - Set LoginGraceTime to a lower value to reduce the window for potential attacks.
 - Disabled EmptyPassword to enforce password requirements for user accounts.
 - Configured Banner to display a warning message to users upon SSH login, notifying them of unauthorized access attempts and potential legal consequences.
+
+  Rules for IP Tables
+  <img width="1280" alt="Screenshot 2024-04-15 at 12 38 54 PM" src="https://github.com/kwrig156/server-config/assets/165214775/49baa50e-e4fa-42fa-a08c-0cc480b21e4c">
+
